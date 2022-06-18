@@ -247,5 +247,6 @@ img{
     }
     #projects .reverse ul{
         justify-content: flex-start;
+        padding: 0;
     }
 }
